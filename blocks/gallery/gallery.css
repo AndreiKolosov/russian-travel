@@ -1,0 +1,9 @@
+.gallery {
+  width: 100%;
+  padding: 92px 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(284px, max-content));
+  /* grid-template-rows: repeat(auto-fit, minmax()); */
+  gap: 16px;
+  box-sizing: border-box;
+}

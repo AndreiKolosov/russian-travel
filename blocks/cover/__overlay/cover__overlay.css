@@ -1,0 +1,8 @@
+.cover__overlay {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 245px 0;
+  width: 100%;
+}

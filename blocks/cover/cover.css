@@ -1,0 +1,8 @@
+.cover {
+  background-image: url(../../../images/station.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  max-width: 1184px;
+  width: 100%;
+}
