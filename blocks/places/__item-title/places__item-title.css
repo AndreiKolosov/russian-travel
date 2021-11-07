@@ -7,4 +7,17 @@
   line-height: 106%;
   color: #ffffff;
   align-self: flex-end;
+  max-width: 460px;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__item-title {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 320px) {
 }

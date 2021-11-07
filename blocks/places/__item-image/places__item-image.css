@@ -1,4 +1,5 @@
 .places__item-image {
+  min-width: 320px;
   max-width: 460px;
-  max-height: 460px;
+  width: 100%;
 }
