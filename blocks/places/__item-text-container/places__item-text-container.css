@@ -1,0 +1,9 @@
+.places__item-text-container {
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__item-text-container {
+    padding: 0 16px;
+  }
+}
