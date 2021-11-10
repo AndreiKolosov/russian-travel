@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .intro {
     padding: 64px 16px 0;
   }

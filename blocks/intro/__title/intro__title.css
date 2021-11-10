@@ -8,16 +8,9 @@
   margin: 0 0 40px;
 }
 
-@media screen and (max-width: 425px) {
-  .intro__title {
-    font-size: 40px;
-    line-height: 109%;
-  }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 727px) {
   .intro__title {
     font-size: 32px;
-    line-height: 109%;
+    line-height: 111%;
   }
 }
