@@ -2,23 +2,23 @@
   font-style: normal;
   font-weight: 400;
   font-size: 10px;
-  line-height: 140%;
+  line-height: 139%;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: #fff;
   margin: 0;
-  padding: 8px 0 0;
+  padding: 5px 0 0;
   align-self: flex-start;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead__caption {
-    padding: 8px 0 0 24px;
+    padding: 5px 0 0 24px;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .lead__caption {
-    padding: 8px 0 0 16px;
+    padding: 5px 0 0 16px;
   }
 }

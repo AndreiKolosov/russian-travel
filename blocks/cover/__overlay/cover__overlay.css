@@ -6,6 +6,8 @@
   padding-top: calc(50% * 0.625 - 125px);
   padding-bottom: calc(50% * 0.625 - 125px);
   width: 100%;
+  background-color: rgba(42, 44, 47, 0.3);
+  transition: background-color linear 0.5s;
 }
 
 .cover__overlay:hover {
