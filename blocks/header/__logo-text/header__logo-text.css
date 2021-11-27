@@ -1,0 +1,20 @@
+.header__logo-text {
+  background-image: url(../../../images/logo-test/logo-text.svg);
+  width: 87px;
+  height: 18px;
+  margin-top: 10px;
+  transform: translate(17px);
+  animation: translation linear 4s infinite;
+}
+
+@keyframes translation {
+  0% {
+    transform: translate(-17);
+  }
+  50% {
+    transform: translate(7px);
+  }
+  100% {
+    transform: translate(-17);
+  }
+}
