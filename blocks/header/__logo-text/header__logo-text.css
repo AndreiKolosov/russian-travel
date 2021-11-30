@@ -1,9 +1,4 @@
-.header__logo-text {
-  /* transform: translate(-8px); */
-  /* animation: translation linear 4s infinite; */
-}
-
-@keyframes translation {
+@keyframes move-text {
   0% {
     transform: translate(0px);
   }
@@ -13,4 +8,8 @@
   100% {
     transform: translate(0px);
   }
+}
+
+.header__logo-text {
+  animation: move-text 3s linear infinite reverse;
 }

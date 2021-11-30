@@ -1,16 +1,15 @@
-.header__logo-pic {
-  /* transform: translate(0px); */
-  animation: translation linear 4s infinite;
-}
-
-@keyframes translation {
+@keyframes move-pic {
   0% {
-    transform: translate(0px);
+    transform: translateX(0px);
   }
   50% {
-    transform: translate(8px);
+    transform: translateX(8px);
   }
   100% {
-    transform: translate(0px);
+    transform: translateX(0px);
   }
+}
+
+.header__logo-pic {
+  animation: move-pic linear 3s infinite;
 }
