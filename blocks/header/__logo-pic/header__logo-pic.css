@@ -1,20 +1,16 @@
 .header__logo-pic {
-  background-image: url(../../../images/logo-test/logo-pic.svg);
-  width: 72px;
-  height: 52px;
-  margin-bottom: 2px;
-  transform: translate(-1px);
+  /* transform: translate(0px); */
   animation: translation linear 4s infinite;
 }
 
 @keyframes translation {
   0% {
-    transform: translate(0);
+    transform: translate(0px);
   }
   50% {
-    transform: translate(7px);
+    transform: translate(8px);
   }
   100% {
-    transform: translate(0);
+    transform: translate(0px);
   }
 }
