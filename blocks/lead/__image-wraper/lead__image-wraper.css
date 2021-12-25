@@ -1,0 +1,8 @@
+.lead__image-wraper {
+  background-image: url(../../../images/shelf.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 90px 23px 257px 23px;
+  margin: 0;
+}

@@ -1,0 +1,68 @@
+@keyframes show-city {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.lead__city:nth-of-type(2) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards;
+}
+
+.lead__city:nth-of-type(3) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 1.9s;
+}
+
+.lead__city:nth-of-type(4) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 5s;
+}
+
+.lead__city:nth-of-type(5) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 6.2s;
+}
+
+.lead__city:nth-of-type(6) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 8.3s;
+}
+
+.lead__city:nth-of-type(7) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 9.8s;
+}
+
+.lead__city:nth-of-type(8) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 12.9s;
+}
+
+.lead__city:nth-of-type(9) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 14.4s;
+}
+
+.lead__city:nth-of-type(10) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 15.5s;
+}
+
+.lead__city:nth-of-type(11) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 17.5s;
+}
+
+.lead__city:nth-of-type(12) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 20.7s;
+}
+
+.lead__city:nth-of-type(13) {
+  opacity: 0;
+  animation: show-city 1.3s linear forwards 22s;
+}

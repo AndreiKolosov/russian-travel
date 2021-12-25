@@ -1,0 +1,17 @@
+@keyframes drow {
+  0% {
+    stroke-dasharray: 1380;
+  }
+  100% {
+    stroke-dashoffset: 2760;
+  }
+}
+
+.lead__route {
+  fill: none;
+  stroke: white;
+  stroke-width: 1px;
+  stroke-dasharray: 1380;
+  stroke-dashoffset: 1380;
+  animation: drow 22s linear forwards;
+}

@@ -17,8 +17,12 @@
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
-@import url(../blocks/lead/__image-container/lead__image-container.css);
-@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__figure/lead__figure.css);
+@import url(../blocks/lead/__image-wraper/lead__image-wraper.css);
+@import url(../blocks/lead/__svg/lead__svg.css);
+@import url(../blocks/lead/__route/lead__route.css);
+@import url(../blocks/lead/__city/lead__city.css);
+@import url(../blocks/lead/__city-mark/lead__city-mark.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 
 @import url(../blocks/intro/intro.css);
@@ -50,4 +54,4 @@
 @import url(../blocks/footer/__links-list/footer__links-list.css);
 @import url(../blocks/footer/__list-item/footer__list-item.css);
 @import url(../blocks/footer/__link/footer__link.css);
-@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css); ;

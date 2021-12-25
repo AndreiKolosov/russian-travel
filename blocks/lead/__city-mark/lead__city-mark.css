@@ -1,0 +1,79 @@
+@keyframes show-city-mark {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.lead__city-mark:nth-child(14),
+.lead__city-mark:nth-child(15) {
+  opacity: 0;
+  animation: show-city-mark 0.5s linear forwards;
+}
+
+.lead__city-mark:nth-child(16),
+.lead__city-mark:nth-child(17) {
+  opacity: 0;
+  animation: show-city-mark 0.5s linear forwards 1.9s;
+}
+
+.lead__city-mark:nth-child(18),
+.lead__city-mark:nth-child(19) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 5s;
+}
+
+.lead__city-mark:nth-child(20),
+.lead__city-mark:nth-child(21) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 6.2s;
+}
+
+.lead__city-mark:nth-child(22),
+.lead__city-mark:nth-child(23) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 8.3s;
+}
+
+.lead__city-mark:nth-child(24),
+.lead__city-mark:nth-child(25) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 9.8s;
+}
+
+.lead__city-mark:nth-child(26),
+.lead__city-mark:nth-child(27) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 12.9s;
+}
+
+.lead__city-mark:nth-child(28),
+.lead__city-mark:nth-child(29) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 14.4s;
+}
+
+.lead__city-mark:nth-child(30),
+.lead__city-mark:nth-child(31) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 15.5s;
+}
+
+.lead__city-mark:nth-child(32),
+.lead__city-mark:nth-child(33) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 17.5s;
+}
+
+.lead__city-mark:nth-child(34),
+.lead__city-mark:nth-child(35) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 20.7s;
+}
+
+.lead__city-mark:nth-child(36),
+.lead__city-mark:nth-child(37) {
+  opacity: 0;
+  animation: show-city 0.5s linear forwards 22s;
+}
