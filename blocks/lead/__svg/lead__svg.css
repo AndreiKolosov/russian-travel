@@ -1,0 +1,26 @@
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .lead__svg {
+    max-width: 884px;
+    max-height: 248px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .lead__svg {
+    max-width: 732px;
+    max-height: 205px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .lead__svg {
+    max-width: 480px;
+    max-height: 135px;
+  }
+}
+
+@media screen and (max-width: 533px) {
+  .lead__svg {
+    max-width: 305px;
+    max-height: 85px;
+  }
+}
