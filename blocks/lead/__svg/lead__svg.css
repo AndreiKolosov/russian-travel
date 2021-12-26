@@ -1,7 +1,15 @@
+.lead__svg {
+  position: absolute;
+  top: 104px;
+  left: 23px;
+}
+
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .lead__svg {
     max-width: 884px;
     max-height: 248px;
+    top: 85px;
+    left: 20px;
   }
 }
 
@@ -9,12 +17,16 @@
   .lead__svg {
     max-width: 732px;
     max-height: 205px;
+    top: 70px;
+    left: 15px;
   }
 }
 @media screen and (max-width: 767px) {
   .lead__svg {
     max-width: 480px;
     max-height: 135px;
+    top: 50px;
+    left: 20px;
   }
 }
 
@@ -22,5 +34,7 @@
   .lead__svg {
     max-width: 305px;
     max-height: 85px;
+    top: 30px;
+    left: 8px;
   }
 }
